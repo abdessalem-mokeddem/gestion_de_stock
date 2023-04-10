@@ -1,0 +1,15 @@
+# Créaction de la description a choisir
+objet =["Pommes', 'Pommes rouges"'Poires', 
+        'Poires juteuses', 'Carottes',
+         'Fraises', 'Brocolis', 
+        'Brocolis frais', 'Framboises' 
+  'Steak haché', 'Steak haché de boeuf',
+  'Saumon', 'Saumon frais'
+  'Lait', 'Lait demi-écrémé', 
+  'Eau', '  Dattes' ,
+  'Savon', 'Savon de Marseille'
+  'Shampooing', 'Shampooing doux' 'boissons'
+  'Coca' , 'Lipton' , 'Oasis' , 'Fanta' , 'Orangina' 
+  'Chips' , 'Bonbons' , 'chocolats'
+
+]
